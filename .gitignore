@@ -1,0 +1,24 @@
+# STM32CubeIDE build folders
+/Debug/
+/Release/
+/build/
+/out/
+
+# Eclipse/IDE settings
+.project
+.cproject
+.settings/
+*.launch
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Compiled files
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.lst

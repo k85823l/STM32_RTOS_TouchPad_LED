@@ -1,0 +1,14 @@
+../Core/Src/main.c:105:5:main	6
+../Core/Src/main.c:182:6:SystemClock_Config	3
+../Core/Src/main.c:229:13:MX_ADC1_Init	3
+../Core/Src/main.c:281:13:MX_GPIO_Init	1
+../Core/Src/main.c:431:13:taskTouch_Sns_handler	4
+../Core/Src/main.c:458:6:btn_int_handler	2
+../Core/Src/main.c:466:13:taskLED_Green_handler	2
+../Core/Src/main.c:481:13:taskLED_Blue_handler	3
+../Core/Src/main.c:495:13:taskLED_Red_handler	2
+../Core/Src/main.c:511:13:taskLED_Yellow_handler	2
+../Core/Src/main.c:526:6:taskUser_Btn_handler	1
+../Core/Src/main.c:570:13:Priority_Swtich	2
+../Core/Src/main.c:601:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:619:6:Error_Handler	1

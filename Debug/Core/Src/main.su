@@ -1,0 +1,14 @@
+../Core/Src/main.c:105:5:main	40	static,ignoring_inline_asm
+../Core/Src/main.c:182:6:SystemClock_Config	88	static
+../Core/Src/main.c:229:13:MX_ADC1_Init	24	static
+../Core/Src/main.c:281:13:MX_GPIO_Init	56	static
+../Core/Src/main.c:431:13:taskTouch_Sns_handler	16	static
+../Core/Src/main.c:458:6:btn_int_handler	24	static,ignoring_inline_asm
+../Core/Src/main.c:466:13:taskLED_Green_handler	16	static
+../Core/Src/main.c:481:13:taskLED_Blue_handler	16	static
+../Core/Src/main.c:495:13:taskLED_Red_handler	16	static
+../Core/Src/main.c:511:13:taskLED_Yellow_handler	16	static
+../Core/Src/main.c:526:6:taskUser_Btn_handler	4	static
+../Core/Src/main.c:570:13:Priority_Swtich	24	static
+../Core/Src/main.c:601:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:619:6:Error_Handler	4	static,ignoring_inline_asm
